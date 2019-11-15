@@ -36,7 +36,7 @@ def animate_data(file_name, xlim, ylim):
     plt.show()
 
 if __name__ == '__main__':
-    file_name = 'final_output.pkl'
+    file_name = 'final_output_v2.pkl'
     xlim = (0,10)
     ylim = (-4, 3)
 
